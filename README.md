@@ -1,7 +1,7 @@
 # VBA_Challenge
 Visual Basic Scripting
 
-The file stock_ticker is a vba script that locates and retrieves every stock ticker from the dataframe, extracts the openning price of the stock at the beginning of the year and the closing price at the end of the year.
+The file ticker_price (previously stock_ticker) is a vba script that locates and retrieves every stock ticker from the dataframe, extracts the openning price of the stock at the beginning of the year and the closing price at the end of the year.
 
 It then creates a new dataframe with the stock ticker, then computes the yearly change for the specific stock .
 
